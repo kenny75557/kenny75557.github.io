@@ -1,0 +1,16 @@
+main:
+
+- place: "EmotiBot"
+  time: "06/2023 - 12/2023"
+  title: "Algorithm Engineer, Fulltime"
+
+- place: "Inria, National Institute for Research in Digital Science and Technology"
+  time: "03/2022 - 09/2022"
+  title: "Reseach Engineer, Internship"
+  link: "https://www.inria.fr/en"
+
+- place: "Industrial Technology Research Institute"
+  time: "07/2021 - 09/2021"
+  title: "Reseacher, Internship"
+  link: "https://www.itri.org.tw/english/index.aspx"
+
