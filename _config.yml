@@ -10,7 +10,7 @@ locale                   : "zh-TW"
 title                    : "Yenhsiang (Kenny) Wang"
 title_separator          : "-"
 name                     : &name "Yenhsiang Wang"
-description              : &description "Master's degree at National Chung-Hsing University."
+description              : &description "Master's graduate from National Chung-Hsing University."
 url                      : https://kenny75557.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kenny75557.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yenhsiang Wang"
   avatar           : "profile.jpeg"
-  bio              : "Master's graduate from National Chung-Hsing University."
+  bio              : "Master's graduate at National Chung-Hsing University."
   location         : "Taiwan"
   employer         : 
   pubmed           : 
