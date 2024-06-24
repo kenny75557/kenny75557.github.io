@@ -1,6 +1,6 @@
 # Develop override settings
 
-url: http://localhost:4000
+url: https://kenny75557.github.io
 encoding: utf-8
 analytics:
   provider: false
