@@ -1,8 +1,12 @@
 main:
 
+- place: "National Chung Hsing University NLP Lab"
+  time: "12/2023 - Current"
+  title: "Research Assistant"
+
 - place: "EmotiBot"
   time: "06/2023 - 12/2023"
-  title: "Algorithm Engineer, Fulltime"
+  title: "Machine Learning Engineer"
 
 - place: "Inria, National Institute for Research in Digital Science and Technology"
   time: "03/2022 - 09/2022"

@@ -6,9 +6,9 @@ permalink: /background/
 
 <!-- {% include base_path %} -->
 # Education
-* M.S. in Computer Science, National Chung-Hsing University, 2022
+* M.S. in Computer Science, National Chung-Hsing University, 2022. Advisor: Yao-Chung, Fan.
 
-* B.S. in Computer Science and Information Engineering, Fu Jen Catholic University, 2020
+* B.S. in Computer Science and Information Engineering, Fu Jen Catholic University, 2020.
 
 # Work Experience
 <p></p>
