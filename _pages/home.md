@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-Hi, I'm Yenhsiang Wang (王彥翔). Research Assitant at the [Natural Language Processing Lab](https://nlpnchu.org/) at National Chung Hsing University. My master's research is advised by Professor [Yao-Chang Fan](https://yfan.nlpnchu.org/). 
+Hi, I'm Yenhsiang Wang (王彥翔). Currently as Research Assitant at the [Natural Language Processing Lab](https://nlpnchu.org/) at National Chung Hsing University. My master's research is advised by Professor [Yao-Chang Fan](https://yfan.nlpnchu.org/). 
 
 My recent research and projects are as follows include Natural Language Processing and Machine Learning, including but not limited to:
 
@@ -16,7 +16,7 @@ My recent research and projects are as follows include Natural Language Processi
 - Distractor Set Generation (For Multiple-choice question) via Reinforcement Learning.
 - Researching on Passage Retrieval for Domain Question Answering. Application in the Agricultural domain: [Shennong-TAIDE](https://demetergptv2.nlpnchu.org/index.html)
 
-Currently seeking opportunities as a PhD candidate and planning to apply for programs commencing in 2025.
+Currently seeking for PhD opportunities starting from 2025.
 
 
 ## Research Interests
