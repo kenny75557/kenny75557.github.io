@@ -12,21 +12,24 @@ Hi, I'm Yenhsiang Wang (王彥翔). Currently as Research Assitant at the [Natur
 
 My recent research and projects are as follows include Natural Language Processing and Machine Learning, including but not limited to:
 
-- Investigating Extremely Low Resource Understanding on LLM for Indigenous Language translation.
-- Distractor Set Generation (For Multiple-choice question) via Reinforcement Learning.
-- Researching on Passage Retrieval for Domain Question Answering. Application in the Agricultural domain: [Shennong-TAIDE](https://demetergptv2.nlpnchu.org/index.html)
+- Exploring how LLMs can enhance translation for Indigenous languages ​​by leveraging Chain-of-Thought reasoning by giving relevant patterns by sentence retrieval.
+- Researching on the performance of Sparse embedding, Dense embedding, and LLM query expansion in specific domain retrieval.
 
-Currently seeking for PhD opportunities starting from 2025.
+
+Currently seeking for PhD opportunities starting from 2025 Fall.
 
 
 ## Research Interests
-* Effective Retrieval Methods with Large Language Models.
-* Trustworthy AI, Evaluation and Alignment on Large Language Models.
+* Reliable and robust integration of effective retrievers and large language models.
+* Interpretability on Large Language Models.
 
-I am interested in improving language models' understanding of human intentions and deep, human-like problem-solving, as well as in providing more accurate and reliable retrieval methods for Large Language Models.
+I am interested in enhancing the interpretability of model mechanisms and their understanding of human intentions, as well as in providing more accurate and reliable retrieval methods for Large Language Models.
 
 # Publications
 **2024**
+- **[A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies](https://arxiv.org/abs/2410.11450)** **Yen-Hsiang Wang** , Feng-Dian Su, Tzu-Yu Yeh, Yao-Chung Fan
+In ROCLING 2024. [[pdf]](https://arxiv.org/pdf/2410.11450)
+
 - **[Learning-From-Mistakes Prompting for Indigenous Language Translation](https://arxiv.org/abs/2407.13343v1)** You-Cheng Liao, Chen-Jui Yu, Chi-Yi Lin, He-Feng Yun, **Yen-Hsiang Wang**, Hsiao-Min Li, Yao-Chung Fan.
  In ACL LoResMT 2024. [[pdf]](https://arxiv.org/pdf/2407.13343v1)
 
@@ -38,5 +41,4 @@ I am interested in improving language models' understanding of human intentions 
 
 # Service
 Reviewer:
-* ACL
-* EMNLP
+* GEM Workshop at EMNLP 2023
