@@ -15,9 +15,9 @@ My recent research and projects are as follows include Natural Language Processi
 - Exploring how LLMs can enhance translation for Indigenous languages ​​by leveraging Chain-of-Thought reasoning by giving relevant patterns by sentence retrieval.
 - Researching on the performance of Sparse embedding, Dense embedding, and LLM query expansion in specific domain retrieval.
 
+[Download my CV here](/files/heliart_CV.pdf)
 
 Currently seeking for PhD opportunities starting from 2025 Fall.
-
 
 ## Research Interests
 * Reliable and robust integration of effective retrievers and large language models.
