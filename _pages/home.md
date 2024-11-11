@@ -25,6 +25,13 @@ Currently seeking for PhD opportunities starting from 2025 Fall.
 
 I am interested in enhancing the interpretability of model mechanisms and their understanding of human intentions, as well as in providing more accurate and reliable retrieval methods for Large Language Models.
 
+
+# News
+* 11/2024: I co-taught a tutorial on [Retrieval-Augmented Language Models](https://nlpnchu.org/rocling-tutorial-2024.github.io/) at [ROCLING 2024](https://nlpnchu.org/rocling-tutorial-2024.github.io/). Slides are available on our website.
+* 11/2024: Our paper, which constructs a Cross-Lingual Retrieval Dataset in the Taiwan Legal domain, was nominated for Best Paper at [ROCLING 2024](https://nlpnchu.org/rocling-tutorial-2024.github.io/).
+* 08/2024 Our papaer [Learning-From-Mistakes Prompting for Indigenous Language Translation](https://arxiv.org/abs/2410.11450) was accepted to the ACL LoResMT 2024.
+
+
 # Publications
 **2024**
 - **[A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies](https://arxiv.org/abs/2410.11450)** **Yen-Hsiang Wang** , Feng-Dian Su, Tzu-Yu Yeh, Yao-Chung Fan
