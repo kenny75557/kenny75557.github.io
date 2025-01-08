@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "Yenhsiang (Kenny) Wang"
+title                    : "Yenhsiang Wang / 王彥翔"
 title_separator          : "-"
 name                     : &name "Yenhsiang Wang"
 description              : &description "M.S. in Computer Science at National Chung-Hsing University."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yenhsiang Wang"
   avatar           : "profile.jpg"
-  bio              : "M.S. @ NCHU NLP Lab"
+  bio              : "Master at National Chung-Hsing University"
   location         : "Taiwan"
   employer         : 
   pubmed           : 
