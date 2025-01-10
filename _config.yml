@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "Yenhsiang Wang / 王彥翔"
+title                    : "Yen-Hsiang Wang / 王彥翔"
 title_separator          : "-"
 name                     : &name "Yenhsiang Wang"
 description              : &description "M.S. in Computer Science at National Chung-Hsing University."

@@ -5,11 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uBfaWHgAAAAJ&hl=zh-TW">my Google Scholar profile</a>.</u>
-{% endif %}
 
-# Publications
+
 **2024**
 - **[A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies](https://arxiv.org/abs/2410.11450)** **Yen-Hsiang Wang** , Feng-Dian Su, Tzu-Yu Yeh, Yao-Chung Fan
 In ROCLING 2024. [[pdf]](https://arxiv.org/pdf/2410.11450)
